@@ -52,4 +52,3 @@ docker exec -it todo-postgres psql -U todo_user -d todo_webinar
 2. Run `npm run db:generate` to generate Prisma client
 3. Run `npm run db:migrate` to create the database tables
 4. Start developing your futuristic todo app! 🚀
-
